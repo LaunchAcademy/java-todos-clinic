@@ -59,7 +59,7 @@
                 <artifactId>flyway-maven-plugin</artifactId>
                 <version>5.2.4</version>
                 <configuration>
-                    <url>jdbc:postgresql://localhost:5432/java-todos</url>
+                    <url>jdbc:postgresql://localhost:5432/java_todos</url>
                     <user>postgres</user>
                     <password>password</password>
                 </configuration>
