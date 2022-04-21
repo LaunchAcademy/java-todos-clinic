@@ -1,12 +1,11 @@
 ## Create a Todo Application
 
-### Create Task
+### Create a Task
 
 - There's a menu item to create a task
 - Every task must have a name and a priority
 - Name must be between 5 and 255 characters
 - Priority must be a number between 1 and 10
-- The category name cannot be an empty string and it has a max of 255 characters.
 - Include appropriate schema constraints and JPA validations
 
 ### Add a category name
